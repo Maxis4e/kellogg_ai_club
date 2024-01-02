@@ -37,12 +37,15 @@
     - [Dive into Deep Learning](https://d2l.ai/)
     - [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
     - https://ai.stanford.edu/courses/
-    - https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/ 
+    - https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
+    - [IBM Generative AI Fundamentals Specialization] (https://www.coursera.org/specializations/generative-ai-for-everyone)
   - Reinforcement Learning
     - [RL Book](https://incompleteideas.net/book/the-book-2nd.html)
     - [Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   - Basics
     - Learn Python
+    - [CodeAcademy] (https://www.codecademy.com/learn/learn-python-3)
+    - [UMichgan Python Specialization] (https://www.coursera.org/specializations/python)
     - Acronyms/Definitions
   - Supervised Learning
   - Unsupervised Learning
@@ -59,10 +62,13 @@
 ### Continuing Education
 - Blogs
   - [HuggingFace](https://huggingface.co/blog)
+  - [Stephen Wolfram - Math and AI] (https://www.stephenwolfram.com)
 - Newsletters
   - https://www.theneurondaily.com/ - NU Undergrads run it
   - https://importai.substack.com/
   - [State of AI Report](https://stateofai.substack.com/)
+  - [Synced] (https://syncedreview.com)
+  - [AI Weekly] (https://aiweekly.co)
 - Podcasts
   - [Last Week in AI](https://lastweekin.ai/)
 - YouTubers
@@ -87,3 +93,5 @@
  - [Northwestern Research Tools (Mathematica, SAS, Qualtrics, MATLAB, SPSS, and others)](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceCatalog?CategoryID=83)
  - [AI @ Northwestern](https://ai.northwestern.edu/index.html)
  - [NUworkspace](https://services.northwestern.edu/TDClient/30/Portal/Requests/ServiceDet?ID=97)
+
+### News Thread
